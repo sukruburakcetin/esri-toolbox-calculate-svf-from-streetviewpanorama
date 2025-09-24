@@ -34,15 +34,16 @@ Please download **`sam_vit_h_4b8939.pth`** from the official release:
 
 3. Move the downloaded checkpoint into the models folder:
 
-models/sam_vit_h_4b8939.pth
+```models/sam_vit_h_4b8939.pth```
 
 Your final structure should look like:
 
-streetview-fisheye-svf/
+```streetview-fisheye-svf/
 │── googlestreetview_to_fisheye.pyt
 │── README.md
 └── models/
     └── sam_vit_h_4b8939.pth
+```
 	
 
 4. clone new env from base arcgispy3 env in arcgis pro package manager interface	
@@ -57,7 +58,8 @@ Enter:
 import os
 print(sys.version)
 print(os.environ.get("CONDA_DEFAULT_ENV"))
-print(sys.path[:3])  # show first 3 search paths```
+print(sys.path[:3])  # show first 3 search paths
+```
 
 It should be pointing your freshly cloned env.
 
