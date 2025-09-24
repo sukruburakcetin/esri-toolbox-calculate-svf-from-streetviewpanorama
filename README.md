@@ -25,7 +25,8 @@ Please download **`sam_vit_h_4b8939.pth`** from the official release:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/streetview-fisheye-svf.git
-   cd streetview-fisheye-svf```
+   cd streetview-fisheye-svf
+   ```
    
    
 2. Create a folder named models inside the repo:
