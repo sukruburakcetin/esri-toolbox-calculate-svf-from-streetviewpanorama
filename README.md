@@ -71,3 +71,6 @@ Install via pip package manager(check your cuda version with "nvidia-smi" in ter
 pip install opencv-python --no-deps
 pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
 ```
+Demo video on YouTube:
+[![Watch the video](https://i.ibb.co/m56zyV6j/image.png)](https://youtu.be/KpPsg0u7rtU)
+
